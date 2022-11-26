@@ -1,0 +1,46 @@
+.ori-one {
+	margin-left: 200px;
+	margin-top: 0px;
+	color: black;
+	background-color: pink;
+	font: comic;
+	border: 3px solid black;
+}
+
+.ori-two {
+	margin-left: 200px;
+	margin-top: 0px;
+	color: white;
+	background-color: red;
+	font: comic;
+	border: 3px solid black;
+}
+
+
+.ori-three {
+	margin-left: 200px;
+	margin-top: 0px;
+	color: black;
+	background-color: yellow;
+	font: comic;
+	border: 3px solid black;
+}
+
+section {
+	border: 2px solid black;
+	width: 400px;
+	border-radius: 5px;
+	margin-left: 20px;
+	background-color: grey;
+}
+
+.ara {
+	padding: 10px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	margin: 200px;
+}
+
