@@ -40,8 +40,8 @@ h1 {
 	position: absolute;
 	top: 0;
 	right: 0;
-	
-	
+	color: white;
+	text-align: center;	
 }
 
 #beef {
@@ -55,6 +55,8 @@ h1 {
 	position: absolute;
 	top: 0;
 	right: 0;
+	color: white;
+	text-align: center;
 	
 }
 
@@ -69,7 +71,8 @@ h1 {
 	position: absolute;
 	top: 0;
 	right: 0;
-	
+	color: white;
+	text-align: center;
 }
 
 /********Large Device*********/
